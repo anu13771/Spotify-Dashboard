@@ -72,6 +72,7 @@ Hi, I'm Anushka – a data enthusiast passionate about using tools like Power BI
 ---
 ## Snapshots of my project:- 
 https://github.com/anu13771/Spotify-Dashboard/blob/main/snapshot%20of%20spotify%20dashboard.jpg
+https://github.com/anu13771/Spotify-Dashboard/blob/main/snapshot%202.jpg
 
 ## 📬 Let's Connect
 
