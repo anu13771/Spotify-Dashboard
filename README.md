@@ -70,7 +70,8 @@ The goal of this project is to analyze personal Spotify listening history and re
 Hi, I'm Anushka – a data enthusiast passionate about using tools like Power BI to turn raw data into beautiful, story-driven dashboards. Music is a big part of my life, and analyzing it through data makes it even more exciting!
 
 ---
-## Snapshots of my project:- https://github.com/anu13771/Spotify-Dashboard/blob/main/snapshot%20of%20spotify%20dashboard.jpg
+## Snapshots of my project:- 
+https://github.com/anu13771/Spotify-Dashboard/blob/main/snapshot%20of%20spotify%20dashboard.jpg
 
 ## 📬 Let's Connect
 
